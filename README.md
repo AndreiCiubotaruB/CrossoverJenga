@@ -49,10 +49,11 @@ Time division:
  ~ 4 hour development
  ~ 45 min ui modifications 
  ~ 30 min testing
- ~  min git uploads
- ~  min video creation
+ ~ 5 min git handling
+ ~ 60 min video creation
  ~  min video upload
 
+Notes:
 
 As mouse was mentioned I inferred that the game would be a PC game not mobile, visuals are based on a FullHD resolution, however should be scaleable.
 First step is obtaining the data from the webpage provided
@@ -63,4 +64,4 @@ Input management can be improved
 Movement is done simply
 Popup management can be improved
 Popups can be changed to 3D space
-!!!!!Input fairly messy can be simplified
+Input fairly messy can be simplified

@@ -348,18 +348,6 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3893333815135512841, guid: 200abc7ac358055419bbeeae4dc47944, type: 3}
-      propertyPath: _baseSize
-      value: 2.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3893333815135512841, guid: 200abc7ac358055419bbeeae4dc47944, type: 3}
-      propertyPath: _blockSpacing
-      value: 0.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3893333815135512841, guid: 200abc7ac358055419bbeeae4dc47944, type: 3}
-      propertyPath: _blockOverBaseAmmount
-      value: 0.6
-      objectReference: {fileID: 0}
     - target: {fileID: 3893333816327666281, guid: 200abc7ac358055419bbeeae4dc47944, type: 3}
       propertyPath: m_RootOrder
       value: 1
