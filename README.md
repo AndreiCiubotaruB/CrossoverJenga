@@ -51,7 +51,7 @@ Time division:
  ~ 30 min testing
  ~ 5 min git handling
  ~ 60 min video creation
- ~  min video upload
+ ~ 10 min video upload
 
 Notes:
 
